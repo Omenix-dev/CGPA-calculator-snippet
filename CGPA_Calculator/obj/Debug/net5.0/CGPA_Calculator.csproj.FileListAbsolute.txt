@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\decagon task\Week1 task\CGPA_Calculator\CGPA_Calculator\bin\Debug\net5.0\CGPA_Calculator.exe
+C:\Users\hp\Documents\decagon task\Week1 task\CGPA_Calculator\CGPA_Calculator\bin\Debug\net5.0\CGPA_Calculator.deps.json
+C:\Users\hp\Documents\decagon task\Week1 task\CGPA_Calculator\CGPA_Calculator\bin\Debug\net5.0\CGPA_Calculator.runtimeconfig.json
+C:\Users\hp\Documents\decagon task\Week1 task\CGPA_Calculator\CGPA_Calculator\bin\Debug\net5.0\CGPA_Calculator.runtimeconfig.dev.json
+C:\Users\hp\Documents\decagon task\Week1 task\CGPA_Calculator\CGPA_Calculator\bin\Debug\net5.0\CGPA_Calculator.dll
+C:\Users\hp\Documents\decagon task\Week1 task\CGPA_Calculator\CGPA_Calculator\bin\Debug\net5.0\CGPA_Calculator.pdb
+C:\Users\hp\Documents\decagon task\Week1 task\CGPA_Calculator\CGPA_Calculator\obj\Debug\net5.0\CGPA_Calculator.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\decagon task\Week1 task\CGPA_Calculator\CGPA_Calculator\obj\Debug\net5.0\CGPA_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\decagon task\Week1 task\CGPA_Calculator\CGPA_Calculator\obj\Debug\net5.0\CGPA_Calculator.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\decagon task\Week1 task\CGPA_Calculator\CGPA_Calculator\obj\Debug\net5.0\CGPA_Calculator.AssemblyInfo.cs
+C:\Users\hp\Documents\decagon task\Week1 task\CGPA_Calculator\CGPA_Calculator\obj\Debug\net5.0\CGPA_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\decagon task\Week1 task\CGPA_Calculator\CGPA_Calculator\obj\Debug\net5.0\CGPA_Calculator.dll
+C:\Users\hp\Documents\decagon task\Week1 task\CGPA_Calculator\CGPA_Calculator\obj\Debug\net5.0\refint\CGPA_Calculator.dll
+C:\Users\hp\Documents\decagon task\Week1 task\CGPA_Calculator\CGPA_Calculator\obj\Debug\net5.0\CGPA_Calculator.pdb
+C:\Users\hp\Documents\decagon task\Week1 task\CGPA_Calculator\CGPA_Calculator\obj\Debug\net5.0\CGPA_Calculator.genruntimeconfig.cache
+C:\Users\hp\Documents\decagon task\Week1 task\CGPA_Calculator\CGPA_Calculator\obj\Debug\net5.0\ref\CGPA_Calculator.dll

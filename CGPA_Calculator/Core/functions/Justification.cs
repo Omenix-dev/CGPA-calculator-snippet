@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CGPA_Calculator.Core.functions
+{
+    public class Justification
+    {
+        public static string Center(string Text, int i)
+        {
+            if(Text == null)
+            {
+                return Text;
+            }
+            int right = i - Text.Length;
+            int left = right/2 + Text.Length;
+            Text = Text.PadLeft(left,' ').PadRight(i,' ');
+            return Text ;
+        }
+    }
+}
