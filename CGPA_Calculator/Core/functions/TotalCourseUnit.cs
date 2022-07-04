@@ -1,5 +1,4 @@
-﻿
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using CGPA_Calculator.Core.contructs;
 
 namespace CGPA_Calculator.Core.functions

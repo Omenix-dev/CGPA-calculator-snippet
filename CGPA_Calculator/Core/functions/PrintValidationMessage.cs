@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 namespace CGPA_Calculator.Core.functions
 {
     public class PrintValidationMessage

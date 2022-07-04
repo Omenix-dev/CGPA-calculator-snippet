@@ -2,7 +2,6 @@
 using System.Text;
 using System.Collections.Generic;
 using CGPA_Calculator.Core.contructs;
-using System.Reflection;
 using CGPA_Calculator.Core.functions;
 
 namespace CGPA_Calculator.UI
@@ -62,26 +61,7 @@ namespace CGPA_Calculator.UI
             {
                 printDetails<CourseClass>(item,header_values,TableValue);
             }
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
             Console.WriteLine(TableValue.ToString());
-
-
-
-
-
-
         }
         
         

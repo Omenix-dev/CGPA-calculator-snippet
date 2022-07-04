@@ -72,30 +72,11 @@ namespace CGPA_Calculator.Core.functions
                         }
                     }
 
-
                 }
                 
-
-
             }
         }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     // this class is used to reduce the code into a much readable sectioning
     internal static class helper
@@ -124,12 +105,6 @@ namespace CGPA_Calculator.Core.functions
         }
 
 
-
-
-
-
-
-
         internal static List<(string, int,float)> AddVal(List<(string, int, float)>value)
         {
             string CourseCode = Validator.Validate<string>("\nEnter the Correct Course Code: ");
@@ -139,12 +114,6 @@ namespace CGPA_Calculator.Core.functions
             
             return value;
         }
-
-
-
-
-
-
 
 
         internal static List<ValueTuple<string, int, float>> DelVal(List<(string, int, float)> value)
@@ -167,29 +136,5 @@ namespace CGPA_Calculator.Core.functions
         }
 
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 }

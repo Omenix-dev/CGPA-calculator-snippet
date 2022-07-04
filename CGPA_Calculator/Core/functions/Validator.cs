@@ -6,7 +6,7 @@ namespace CGPA_Calculator.Core.functions
     {
 
         // ... a generic method that different values and return a conversion
-        public static T Validate<T>( string mssg) where T:IConvertible
+        public static T Validate<T>(string mssg) where T:IConvertible
         {
             Console.Write(mssg);
             string value = Console.ReadLine();

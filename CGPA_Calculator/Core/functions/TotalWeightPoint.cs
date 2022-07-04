@@ -16,7 +16,6 @@ namespace CGPA_Calculator.Core.functions
                     totalWeight += Course.Weight_pt;
                 }
             }
-
             return totalWeight;
         }
     }

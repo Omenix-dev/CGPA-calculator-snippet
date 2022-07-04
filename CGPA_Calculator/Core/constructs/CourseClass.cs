@@ -61,6 +61,4 @@ namespace CGPA_Calculator.Core.contructs
         }
      }
 
-
-
 }

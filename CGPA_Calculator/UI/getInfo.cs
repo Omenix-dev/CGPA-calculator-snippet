@@ -16,7 +16,6 @@ namespace CGPA_Calculator.UI
             // holds the value for all the grades before they are instantiated with Course Class
             var listOfCourse = new List<ValueTuple<string, int, float>> { };
 
-
             // store the number of the courses offered
             int numberOfCourse = Validator.Validate<int>("Enter the number of course you offered: ");
 
